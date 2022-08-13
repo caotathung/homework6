@@ -1,0 +1,17 @@
+.static{
+    position: static;
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+}
+.relative{
+    bottom: 100px;
+    left: 100px;
+    position: relative;
+    background-color: violet;
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+
+}
